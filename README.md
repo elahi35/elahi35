@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on ****Spring****
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Spring boot**
 
 - 👯 I’m looking to collaborate on ****Open Source****
 
