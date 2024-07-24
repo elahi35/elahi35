@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Noor Elahi</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right"  alt ="coding" width ="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elahi35&label=Profile%20views&color=0e75b6&style=flat" alt="elahi35" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elahi35" alt="elahi35" /></a> </p>
