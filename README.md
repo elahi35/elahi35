@@ -1,4 +1,4 @@
-[![MasterHead](https://media.geeksforgeeks.org/wp-content/uploads/20221123153249/SkillsRequiredtoBecomeaBackendDeveloper.png)](https://rishavchanda.io)
+
 
 <h1 align="center">Hi 👋, I'm Noor Elahi</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/skmdnoorelahi1" target="blank"><img src="https://img.shields.io/twitter/follow/skmdnoorelahi1?logo=twitter&style=for-the-badge" alt="skmdnoorelahi1" /></a> </p>
 
-- 🔭 I’m currently working on ****Spring****
+- 🔭 I’m currently working on ****Django****
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently learning **NLP**
 
 - 👯 I’m looking to collaborate on ****Open Source****
 
 - 👨‍💻 All of my projects are available at [https://app.revature.com/profile/Elahi35/c2f0973934cb6ff05e6e2a496080a7eb](https://app.revature.com/profile/Elahi35/c2f0973934cb6ff05e6e2a496080a7eb)
 
-- 💬 Ask me about **** Java , Spring****
+- 💬 Ask me about **** python****
 
 - 📫 How to reach me **skmdnoorelahi35@gmail.com**
 
