@@ -14,9 +14,7 @@
 
 - 👯 I’m looking to collaborate on ****Open Source****
 
-- 👨‍💻 All of my projects are available at [https://app.revature.com/profile/Elahi35/c2f0973934cb6ff05e6e2a496080a7eb](https://app.revature.com/profile/Elahi35/c2f0973934cb6ff05e6e2a496080a7eb)
-
-- 💬 Ask me about **** python****
+- 💬 Ask me about **** DATA & AI****
 
 - 📫 How to reach me **skmdnoorelahi35@gmail.com**
 
