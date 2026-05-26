@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/skmdnoorelahi1" target="blank"><img src="https://img.shields.io/twitter/follow/skmdnoorelahi1?logo=twitter&style=for-the-badge" alt="skmdnoorelahi1" /></a> </p>
 
-- 🔭 I’m currently working on ****Django****
+- 🔭 I’m currently working on ****Pipeline****
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **DATA**
 
 - 👯 I’m looking to collaborate on ****Open Source****
 
